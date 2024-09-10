@@ -124,4 +124,8 @@ Este documento visa detalhar os requisitos e a arquitetura de uma nova funcional
 
 Este documento define a abordagem técnica e funcional para a implementação da funcionalidade de videoconferência e transcrição, com geração de laudos médicos automatizada. O projeto segue o objetivo de independência de APIs externas para videoconferências e oferece alternativas para o uso de STT e IA, equilibrando custos e desempenho.
 
+## 10. **Transcrição exemplo (Gerado por IA)**
+[Transcrição de consulta médica](transcricao-consulta.md)
 
+## 11. **Laudo gerado com base na transcrição (Gerado por IA)**
+[Laudo](laudo-gerado-por-ia.md)
