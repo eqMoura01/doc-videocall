@@ -37,3 +37,7 @@ Paciente: Combinado. Muito obrigado, doutor.
 Médico: De nada, vamos aguardar os resultados da radiografia e, dependendo do que encontrarmos, decidiremos o melhor tratamento. Até logo!
 
 Paciente: Até logo!
+
+[Voltar](https://github.com/eqMoura01/doc-videocall)
+
+[Laudo gerado por IA](laudo-gerado-por-ia.md)
