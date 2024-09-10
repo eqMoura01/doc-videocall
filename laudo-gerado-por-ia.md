@@ -40,3 +40,5 @@ Caso haja piora da dor ou surgimento de sintomas adicionais, como irradiação d
 Assinatura do Médico:  
 Dr. [Nome do Médico]  
 CRM [Número do CRM]  
+
+[Voltar a página inicial](https://github.com/eqMoura01/doc-videocall)
