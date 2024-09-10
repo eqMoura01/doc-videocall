@@ -2,10 +2,10 @@
 
 Laudo Médico
 
-Paciente: [Nome do Paciente]
-Data da Consulta: [Data da Consulta]
-Médico: Dr. [Nome do Médico]
-Especialidade: [Especialidade do Médico]
+Paciente: [Nome do Paciente]  
+Data da Consulta: [Data da Consulta]  
+Médico: Dr. [Nome do Médico]  
+Especialidade: [Especialidade do Médico]  
 
 Queixa Principal:
 Dor nas costas
