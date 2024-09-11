@@ -10,7 +10,7 @@ Antes de começar a implementar, é essencial entender os fundamentos do WebRTC 
 - Fluxo de sinalização (troca de SDP entre peers).
   
 **Recursos sugeridos:**
-- [Documentação WebRTC](https://webrtc.org/start/)
+- [Documentação WebRTC](https://webrtc.org/)
 - MDN WebRTC API: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
 
 ### 1.2. **Protocolo ICE (Interactive Connectivity Establishment)**
