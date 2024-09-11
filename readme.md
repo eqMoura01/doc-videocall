@@ -130,5 +130,5 @@ Este documento define a abordagem técnica e funcional para a implementação da
 ## 11. **Laudo gerado com base na transcrição (Gerado por IA)**
 [Laudo](laudo-gerado-por-ia.md)
 
-## 12. **RoadMap Desesnvolvimento**
+## 12. **RoadMap Desenvolvimento**
 [RoadMap](ordem-implementação.md)
